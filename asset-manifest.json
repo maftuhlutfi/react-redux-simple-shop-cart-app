@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-redux-simple-shop-cart-app/static/js/main.2523eee6.chunk.js",
+    "main.js.map": "/react-redux-simple-shop-cart-app/static/js/main.2523eee6.chunk.js.map",
+    "runtime-main.js": "/react-redux-simple-shop-cart-app/static/js/runtime-main.2bc5d963.js",
+    "runtime-main.js.map": "/react-redux-simple-shop-cart-app/static/js/runtime-main.2bc5d963.js.map",
+    "static/js/2.95fc8b85.chunk.js": "/react-redux-simple-shop-cart-app/static/js/2.95fc8b85.chunk.js",
+    "static/js/2.95fc8b85.chunk.js.map": "/react-redux-simple-shop-cart-app/static/js/2.95fc8b85.chunk.js.map",
+    "index.html": "/react-redux-simple-shop-cart-app/index.html",
+    "precache-manifest.a11f2351e0d0ece3e5a746c719cc0273.js": "/react-redux-simple-shop-cart-app/precache-manifest.a11f2351e0d0ece3e5a746c719cc0273.js",
+    "service-worker.js": "/react-redux-simple-shop-cart-app/service-worker.js",
+    "static/js/2.95fc8b85.chunk.js.LICENSE.txt": "/react-redux-simple-shop-cart-app/static/js/2.95fc8b85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc5d963.js",
+    "static/js/2.95fc8b85.chunk.js",
+    "static/js/main.2523eee6.chunk.js"
+  ]
+}
